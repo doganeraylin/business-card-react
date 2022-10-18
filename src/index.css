@@ -21,6 +21,8 @@ body {
 
 }
 
+/* info */
+
 .profile-pic {
   max-width: 100%;
   border-radius: 8px 8px 0 0;
@@ -44,6 +46,8 @@ body {
   margin-bottom: 1em;
 }
 
+/* buttons */
+
 .email-btn {
   background-color: white;
   padding: .4em 1.5em ;
@@ -60,6 +64,8 @@ body {
   border: 0;
   border-radius: 4px;
 }
+
+/* main content */
 
 .main-container {
   display: flex;
@@ -87,6 +93,8 @@ body {
   
 
 }
+
+/* footer */
 
 .footer-icons {
   display: flex;
