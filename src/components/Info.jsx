@@ -3,7 +3,7 @@ import React from "react"
 export default function Info() {
     return (
         <div>
-            <img src="../src/assets/profile-picture.jpg" className="profile-pic"/>
+            <img src="./assets/profile-picture.jpg" className="profile-pic"/>
             <h1 className="name">Laura Smith</h1>
             <h2 className="title">Frontend Developer</h2>
             <h3 className="website">laurasmith.website</h3>
